@@ -2,7 +2,7 @@ package algorithm;
 
 import java.util.Scanner;
 
-// 로봇 청소기
+// 14503 로봇 청소기
 // https://www.acmicpc.net/problem/14503
 public class Q14503 {
 	static int[][] room;

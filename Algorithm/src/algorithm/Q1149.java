@@ -42,7 +42,7 @@ public class Q1149 {
 	}
 	
 	// 세 수중 최솟값 리턴
-	static int min(int r, int g, int b) {
+	public static int min(int r, int g, int b) {
 		int ans = r;
 		if (g < ans) ans = g;
 		if (b < ans) ans = b;

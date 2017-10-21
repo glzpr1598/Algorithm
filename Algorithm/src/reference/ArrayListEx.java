@@ -1,10 +1,10 @@
-package algorithm;
+package reference;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class ArrayListExample {
+public class ArrayListEx {
 	
 	public static void main(String[] args) {
 		// Integer형 list 생성

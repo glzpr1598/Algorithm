@@ -1,4 +1,4 @@
-package algorithm;
+package reference;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

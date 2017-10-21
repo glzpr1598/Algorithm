@@ -1,4 +1,4 @@
-package algorithm;
+package reference;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
@@ -8,7 +8,7 @@ import java.util.Scanner;
 //첫 줄에 정점의 개수 N과 간선의 개수 M이 주어집니다.
 //다음 M줄에 간선의 관계 시작정점 u와 도착정점 v가 주어집니다.
 //입력에 따른 깊이 우선 탐색 결과를 출력합니다.
-public class DFSBFS {
+public class DfsBfs {
 	static int n;    // 정점
     static int m;    // 간선
     static boolean[][] edge;    // 인접행렬

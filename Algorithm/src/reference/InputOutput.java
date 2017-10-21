@@ -51,5 +51,7 @@ public class InputOutput {
 		    sb.append(i+"\n");    // 스트링빌더에 출력값 append
 		}
 		System.out.print(sb);    // 156ms
+		
+		sc.close();
 	}
 }

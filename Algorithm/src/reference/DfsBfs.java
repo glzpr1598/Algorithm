@@ -28,9 +28,11 @@ public class DfsBfs {
             int v = scanner.nextInt();
             edge[u][v] = true;
         }
+        
         dfs(1);
         //bfs(1);
  
+        scanner.close();
     }
     
     public static void dfs (int cur)

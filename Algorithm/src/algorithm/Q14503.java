@@ -34,6 +34,7 @@ public class Q14503 {
  
         System.out.println(answer);
  
+        scanner.close();
     }
  
     public static void clean ()

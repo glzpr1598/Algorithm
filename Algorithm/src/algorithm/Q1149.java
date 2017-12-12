@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 
 // 1149 RGB거리
 // https://www.acmicpc.net/problem/1149
-// DP문제
+// DP
 public class Q1149 {
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

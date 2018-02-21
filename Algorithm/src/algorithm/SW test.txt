@@ -9,7 +9,7 @@ https://www.acmicpc.net/lecture/82
 붕어빵 판매하기 o
 쉬운 계단 수 o
 오르막 수 o
-이친수
+이친수 o
 스티커
 포도주 시식
 가장 긴 증가하는 부분 수열

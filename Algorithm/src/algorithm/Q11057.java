@@ -1,7 +1,6 @@
 package algorithm;
 
 import java.io.BufferedReader;
-import java.io.IOException;
 import java.io.InputStreamReader;
 
 // 11057 오르막 수

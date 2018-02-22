@@ -1,4 +1,4 @@
-package algorithm.dp.q13458;
+package algorithm.q13458;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

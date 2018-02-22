@@ -1,4 +1,4 @@
-package algorithm.dp.q14503;
+package algorithm.q14503;
 
 import java.util.Scanner;
 

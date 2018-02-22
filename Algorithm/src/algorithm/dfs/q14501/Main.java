@@ -1,4 +1,4 @@
-package algorithm.dp.q14501;
+package algorithm.dfs.q14501;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

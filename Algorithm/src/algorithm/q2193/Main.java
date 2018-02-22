@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm.q2193;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 // 2193 이친수
 // https://www.acmicpc.net/problem/2193
 // DP
-public class Q2193 {
+public class Main {
 
 	public static void main(String[] args) throws Exception {
 

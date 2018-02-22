@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm.q1149;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 // 1149 RGB거리
 // https://www.acmicpc.net/problem/1149
 // DP
-public class Q1149 {
+public class Main {
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		String[] str = br.readLine().split(" ");	// 첫째줄 입력

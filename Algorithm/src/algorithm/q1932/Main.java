@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm.q1932;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 // 1932 숫자삼각형
 // https://www.acmicpc.net/problem/1932
 // DP 문제
-public class Q1932 {
+public class Main {
 	public static void main(String[] agrs) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int n = Integer.parseInt(br.readLine());	// 첫번째 줄 입력

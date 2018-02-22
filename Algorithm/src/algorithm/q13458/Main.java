@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm.q13458;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 // 13458 시험 감독
 // https://www.acmicpc.net/problem/13458
 // 단순 조건. 부감독관 특이 케이스만 조심.
-public class Q13458 {
+public class Main {
 
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

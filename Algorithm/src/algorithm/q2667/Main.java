@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm.q2667;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -9,7 +9,7 @@ import java.util.List;
 // 2667 단지번호붙이기
 // https://www.acmicpc.net/problem/2667
 // DFS 이용
-public class Q2667 {
+public class Main {
 	static int[][] house;	// 집
 	static boolean[][] visited;	// dfs 방문여부
 	static int house_count;	// 단지내 집의 수

@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm.q11052;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -16,7 +16,7 @@ import java.io.InputStreamReader;
  * dp[0] + 붕어빵 n개 세트 가격 
  * 중의 최댓값이다.
  */
-public class Q11052 {
+public class Main {
 
 	public static void main(String[] args) throws Exception {
 

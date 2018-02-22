@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm.q14501;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 // 14501 퇴사
 // https://www.acmicpc.net/problem/14501
 // 미해결, dfs 함수 수정 필요.
-public class Q14501 {
+public class Main {
 	
 	static int[] t;
 	static int[] p;

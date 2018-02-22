@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm.q11726;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 // 11726 2×n 타일링
 // https://www.acmicpc.net/problem/11726
 // DP
-public class Q11726 {
+public class Main {
 
 	public static void main(String[] args) throws Exception {
 

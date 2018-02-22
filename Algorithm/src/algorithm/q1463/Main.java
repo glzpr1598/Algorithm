@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm.q1463;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 // 1463 1로 만들기
 // https://www.acmicpc.net/problem/1463
 // DP 이용
-public class Q1463 {
+public class Main {
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int n = Integer.parseInt(br.readLine());

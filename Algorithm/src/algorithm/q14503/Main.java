@@ -1,10 +1,10 @@
-package algorithm;
+package algorithm.q14503;
 
 import java.util.Scanner;
 
 // 14503 로봇 청소기
 // https://www.acmicpc.net/problem/14503
-public class Q14503 {
+public class Main {
 	static int[][] room;
     static int[][] cleaned;
     static int r, c, d;

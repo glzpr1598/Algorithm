@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm.q10844;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 // 10844 쉬운 계단 수
 // https://www.acmicpc.net/problem/10844
 // DP문제
-public class Q10844 {
+public class Main {
 	final static int DIV = 1000000000;	// 이 수로 나눈 나머지를 출력해야 하므로.(int 범위를 벗어남)
 			
 	public static void main(String[] args) throws Exception {

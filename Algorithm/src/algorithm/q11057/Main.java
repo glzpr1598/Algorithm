@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm.q11057;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 // 11057 오르막 수
 // https://www.acmicpc.net/problem/11057
 // DP
-public class Q11057 {
+public class Main {
 
 	static final int DIV = 10007; // 나눌 수
 	

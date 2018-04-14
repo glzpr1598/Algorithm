@@ -25,8 +25,8 @@ https://www.acmicpc.net/lecture/82
 
 <BFS>
 숨바꼭질 o (BFS 기본, 최단거리)
-숨바꼭질 4 (BFS 경로 출력)
-DSLR
+숨바꼭질 4 o (BFS 경로 출력)
+DSLR o (경로 연산자 출력)
 이모티콘
 퍼즐
 물통

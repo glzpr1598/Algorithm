@@ -24,7 +24,7 @@ https://www.acmicpc.net/lecture/82
 합분해
 
 <BFS>
-숨바꼭질
+숨바꼭질 o (BFS 기본, 최단거리)
 숨바꼭질 4
 DSLR
 이모티콘

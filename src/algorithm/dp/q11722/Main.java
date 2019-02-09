@@ -1,7 +1,6 @@
 package algorithm.dp.q11722;
 
 import java.io.BufferedReader;
-import java.io.IOException;
 import java.io.InputStreamReader;
 
 // 11722 가장 긴 감소하는 부분 수열

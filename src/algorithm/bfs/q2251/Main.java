@@ -17,6 +17,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
+		@SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);
 		int a, b, c;  // 초기 물통의 용량
 		

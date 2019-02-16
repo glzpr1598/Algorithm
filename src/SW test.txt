@@ -3,7 +3,7 @@ https://www.acmicpc.net/lecture/82
 
 <조합>
 치킨 배달 o
-스타트와 링크
+스타트와 링크 o
 사다리 조작
 감시
 연구소
